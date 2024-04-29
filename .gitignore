@@ -1,0 +1,6 @@
+.idea/
+*.temp
+bin/
+obj/
+*.user
+!README.md
